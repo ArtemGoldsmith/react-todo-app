@@ -1,0 +1,15 @@
+.todo-app {
+	margin: 2rem auto 0 auto;
+	max-width: 400px;
+}
+
+.top-panel {
+	margin: 1rem 0;
+}
+
+.btn:focus,
+.btn:focus:active,
+.btn:not(:disabled):not(.disabled):active:focus {
+	outline: 0;
+	box-shadow: none;
+}
